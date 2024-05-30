@@ -10,3 +10,5 @@ Hugging face models -https://huggingface.co/models
 3- Hugging face Models and LLM evaluation Metrices - https://colab.research.google.com/drive/1fpnOVosCb3q2XunqmakvPjQpgDsjroSM?usp=sharing
 
 4- Training, finetuning peft, QLoRA, LLMa 3 -  https://colab.research.google.com/drive/1Ce3Ke3devpsupjb64rNOOrvnv4hWsaY6?usp=sharing
+
+5- LangChain - https://colab.research.google.com/drive/163gARNoP6c7tAnNd_H3EXUa2CSnEdS9K?usp=sharing
